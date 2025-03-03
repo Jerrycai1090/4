@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>蔡朝丞的質數判斷器</title>
+    <title>質數判斷器</title>
    <ry>
 <style>
         body {
@@ -42,7 +42,7 @@
 <body>
 
     <div class="prime-checker">
-        <h2>質數判斷器</h2>
+        <h2>蔡朝丞的質數判斷器</h2>
         <label for="number">輸入數字:</label>
         <input type="number" id="number" placeholder="數字"><br>
         <button onclick="checkPrime()">判斷是否為質數</button><br>
